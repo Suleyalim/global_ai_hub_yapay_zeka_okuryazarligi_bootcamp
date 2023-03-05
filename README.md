@@ -1,1 +1,1 @@
-# global_ai_hub_yapay_zeka_okuryazarligi_bootcamp
+Aygaz Yapay Zeka Okuryazarlığı Bootcamp'i için bitirme projesi sunumu
