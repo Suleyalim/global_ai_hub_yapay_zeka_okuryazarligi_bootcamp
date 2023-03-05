@@ -1,0 +1,1 @@
+# global_ai_hub_yapay_zeka_okuryazarligi_bootcamp
